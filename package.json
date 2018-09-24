@@ -1,0 +1,19 @@
+{
+  "name": "templated-assembly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Xml.js",
+  "dependencies": {
+    "graph-data-structure": "^1.8.0",
+    "node.js": "^0.0.0",
+    "xml-to-json-promise": "0.0.3",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
